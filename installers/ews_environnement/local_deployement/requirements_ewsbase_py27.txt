@@ -1,0 +1,179 @@
+keras # Added at the end / Remove if this does not work
+python==2.7.15
+nodejs==8.*
+notebook=5.6.* 
+jupyterlab=0.33.*
+numpy
+pandas=0.23.*    
+pandas-datareader
+numexpr
+sympy
+python-snappy
+blosc
+fastparquet
+xarray
+pytables 
+scipy
+statsmodels
+patsy
+scikit-learn
+scikit-image
+cython
+numba
+
+# Plotting stack
+matplotlib>=2.2.3
+altair
+seaborn 
+dask
+dash
+plotly
+brewer2mpl
+folium 
+branca
+ggplot
+bqplot
+vincent
+
+# holoviews stack
+#pyviz::pyviz 
+bokeh=0.13.* 
+holoviews=1.10.* 
+geoviews=1.5.* 
+datashader=0.6.* 
+hvplot
+
+# Database stack
+sqlalchemy>=1.2.* 
+sqlalchemy-utils>=0.33.* 
+psycopg2>=2.7.* 
+sqlite 
+pymongo 
+
+# parallel stack    
+cloudpickle
+distributed
+joblib
+futures 
+
+# other stuff
+cycler
+yaml
+requests 
+pydot
+# pydot-ng 
+graphviz
+snakeviz 
+pycurl
+pyephem 
+pillow 
+
+# Excel stack
+xlrd 
+xlsxwriter
+xlwt 
+xlwings 
+
+
+# GIS stack
+mercantile 
+gdal>=2.2.1* 
+libgdal>=2.2.1*      
+shapely>=1.6.* 
+fiona>=1.7.* 
+rasterio>=1.0.* 
+geopandas>=0.4.* 
+parse     
+h5py 
+libtiff 
+netcdf4 
+owslib 
+pyepsg 
+pykml 
+simplekml 
+pyshp 
+utm 
+cartopy
+geojson 
+geojsonio 
+osmnx 
+
+
+# IPython/Jupyter stack
+ipywidgets=7.4.* 
+ipyleaflet=0.9.* 
+ipyparallel=6.2.* 
+jupyter_contrib_nbextensions=0.5.* 
+jupyter_nbextensions_configurator=0.4.* 
+
+
+# Flask stack
+click
+invoke
+colorlog
+apispec=0.38.0 
+werkzeug
+marshmallow=3.0.* 
+marshmallow-sqlalchemy 
+itsdangerous
+jinja2
+flask==1.0.2 
+flask-admin 
+flask-apispec 
+flask-babelex
+flask-cache
+flask-cors 
+flask-httpauth
+pyjwt 
+flask-jwt-extended 
+flask-login
+flask-mail
+flask-marshmallow
+flask-migrate
+flask-oauthlib
+flask-principal
+flask-restplus
+flask-restless
+flask-script
+flask-security
+flask-socketio
+flask-sqlalchemy
+flask-uploads
+flask-user
+flask-wtf
+
+
+# Machine learning stack
+libpython 
+m2w64-toolchain
+m2w64-gcc-libgfortran
+mkl-service
+# keras
+theano
+
+
+# Linting
+flake8  
+autopep8
+pep8 
+pylint 
+pydocstyle 
+
+
+# Other stuff
+# intake::intake 
+# intake::intake-parquet 
+# intake::intake-xarray 
+# intake::intake-mongo
+
+# Deployement
+celery
+greenlet
+gevent
+
+# VTK stack
+menpo::mayavi==4.5.0
+menpo::vtk
+
+
+

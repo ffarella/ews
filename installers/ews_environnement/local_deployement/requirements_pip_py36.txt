@@ -1,0 +1,35 @@
+django
+django-extensions  
+djangorestframework 
+djangorestframework-gis 
+djangorestframework-jwt
+djangorestframework-simplejwt 
+django-rest-framework
+django-cors-headers 
+django-rest-swagger
+django-model-utils
+django-redis
+# django-socketio
+django-tables2
+django-filter
+django-crispy-forms
+django-extensions
+django-autocomplete-light
+django-reversion
+django-rest-auth
+rest-pandas
+django-pandas
+# django-sabridge
+django-celery-email
+django-compressor
+django-debug-toolbar
+django-generic-scaffold
+django-rest-swagger
+django-rest-auth
+pytest-django
+pyecharts 
+pyecharts-jupyter-installer
+echarts-countries-pypkg 
+cesiumpy
+docker
+pywin32

@@ -1,0 +1,466 @@
+# packages in environment at D:\EWS\bin\miniconda2\envs\ewsbase_py27:
+#
+# Name                    Version                   Build  Channel
+affine                    2.2.1                      py_0    conda-forge
+alembic                   0.9.9                      py_0    conda-forge
+altair                    2.2.2                      py_0    conda-forge
+amqp                      2.3.2                      py_1    conda-forge
+aniso8601                 3.0.2                      py_1    conda-forge
+anyjson                   0.3.3                    py27_1    conda-forge
+apispec                   0.38.0                     py_0    conda-forge
+apptools                  4.4.0                    py27_2    conda-forge
+argon2_cffi               18.3.0                   py27_0    conda-forge
+arrow                     0.12.1                   py27_2    conda-forge
+asn1crypto                0.24.0                   py27_2    conda-forge
+astroid                   1.6.5                    py27_0    conda-forge
+atomicwrites              1.1.5                    py27_0    conda-forge
+attrs                     18.1.0                     py_1    conda-forge
+automat                   0.7.0                    py27_0    conda-forge
+autopep8                  1.3.4                      py_0    conda-forge
+babel                     2.6.0                      py_1    conda-forge
+backports                 1.0                        py_2    conda-forge
+backports.functools_lru_cache 1.5                        py_1    conda-forge
+backports.shutil_get_terminal_size 1.0.0                      py_3    conda-forge
+backports.shutil_which    3.5.1                      py_2    conda-forge
+backports.ssl-match-hostname 3.5.0.1                   <pip>
+backports_abc             0.5                        py_1    conda-forge
+bcrypt                    3.1.4            py27h0c8e037_0    defaults
+billiard                  3.5.0.3                  py27_0    conda-forge
+blas                      1.0                         mkl    defaults
+bleach                    2.1.4                      py_1    conda-forge
+blinker                   1.4                        py_1    conda-forge
+blosc                     1.14.4               hc56fc5f_0    conda-forge
+bokeh                     0.13.0                   py27_0    conda-forge
+boto3                     1.7.83                     py_0    conda-forge
+botocore                  1.10.84                    py_0    conda-forge
+bottleneck                1.2.1            py27hc997a72_1    conda-forge
+bqplot                    0.11.1                   py27_0    conda-forge
+branca                    0.3.0                      py_0    conda-forge
+brewer2mpl                1.4.1                      py_3    conda-forge
+bzip2                     1.0.6                     vc9_1  [vc9]  conda-forge
+ca-certificates           2018.8.24            ha4d7672_0    conda-forge
+cartopy                   0.16.0           py27h6f2cd47_1    conda-forge
+celery                    4.2.1                      py_0    conda-forge
+certifi                   2018.8.13                py27_0    conda-forge
+cesiumpy                  0.3.3                     <pip>
+cffi                      1.11.5           py27h0c8e037_1    conda-forge
+cftime                    1.0.1            py27hc997a72_0    conda-forge
+chardet                   3.0.4                    py27_3    conda-forge
+click                     6.7                        py_1    conda-forge
+click-plugins             1.0.3                      py_1    conda-forge
+cligj                     0.4.0                    py27_0    conda-forge
+cloudpickle               0.5.3                      py_0    conda-forge
+colorama                  0.3.9                      py_1    conda-forge
+colorcet                  1.0.0                      py_0    conda-forge
+colorlog                  3.1.4                    py27_0    conda-forge
+colour                    0.1.5                      py_0    conda-forge
+comtypes                  1.1.7                    py27_0    conda-forge
+configobj                 5.0.6                      py_0    conda-forge
+configparser              3.5.0                    py27_0    conda-forge
+constantly                15.1.0                     py_0    conda-forge
+coreapi                   2.3.3                     <pip>
+coreschema                0.0.4                     <pip>
+cryptography              2.3.1            py27hc64555f_0    conda-forge
+cryptography-vectors      2.3.1                    py27_0    conda-forge
+curl                      7.60.0                    vc9_0  [vc9]  conda-forge
+cycler                    0.10.0                     py_1    conda-forge
+cyordereddict             1.0.0            py27h0c8e037_2    conda-forge
+cython                    0.28.5           py27hc56fc5f_0    conda-forge
+cytoolz                   0.9.0.1          py27h0c8e037_0    conda-forge
+dash                      0.26.0                     py_0    conda-forge
+dash-renderer             0.13.2                     py_0    conda-forge
+dask                      0.18.2                     py_0    conda-forge
+dask-core                 0.18.2                     py_0    conda-forge
+datashader                0.6.7                      py_0    pyviz
+datashape                 0.5.4                    py27_0    conda-forge
+decorator                 4.3.0                      py_0    conda-forge
+descartes                 1.1.0                      py_2    conda-forge
+distributed               1.22.1                   py27_0    conda-forge
+Django                    1.11.15                   <pip>
+django-appconf            1.0.2                     <pip>
+django-autocomplete-light 3.3.0                     <pip>
+django-celery-email       2.0.0                     <pip>
+django-compressor         2.2                       <pip>
+django-cors-headers       2.4.0                     <pip>
+django-crispy-forms       1.7.2                     <pip>
+django-debug-toolbar      1.9.1                     <pip>
+django-extensions         2.1.0                     <pip>
+django-filter             2.0.0                     <pip>
+django-generic-scaffold   0.5.2                     <pip>
+django-model-utils        3.1.2                     <pip>
+django-pandas             0.5.1                     <pip>
+django-redis              4.9.0                     <pip>
+django-rest-auth          0.9.3                     <pip>
+django-rest-framework     0.1.0                     <pip>
+django-rest-swagger       2.2.0                     <pip>
+django-reversion          3.0.0                     <pip>
+django-sabridge           0.0.1                     <pip>
+django-socketio           0.3.9                     <pip>
+django-tables2            1.21.2                    <pip>
+djangorestframework       3.8.2                     <pip>
+djangorestframework-gis   0.13                      <pip>
+djangorestframework-jwt   1.11.0                    <pip>
+djangorestframework-simplejwt 3.2.3                     <pip>
+docker                    3.5.0                     <pip>
+docker-pycreds            0.3.0                     <pip>
+docutils                  0.14                     py27_0    conda-forge
+echarts-countries-pypkg   0.1.4                     <pip>
+entrypoints               0.2.3                    py27_1    conda-forge
+enum34                    1.1.6                    py27_1    conda-forge
+envisage                  4.7.0                      py_0    conda-forge
+expat                     2.2.5                     vc9_0  [vc9]  conda-forge
+fastcache                 1.0.2            py27h0c8e037_1    conda-forge
+fastparquet               0.1.6                    py27_0    conda-forge
+fiona                     1.7.13           py27h64536ba_3    conda-forge
+flake8                    3.5.0                    py27_0    conda-forge
+flask                     1.0.2                      py_1    conda-forge
+flask-admin               1.5.1                    py27_0    conda-forge
+flask-apispec             0.7.0                      py_0    conda-forge
+flask-babelex             0.9.3                      py_1    conda-forge
+flask-cache               0.13.1                   py27_0    conda-forge
+flask-compress            1.4.0                      py_0    conda-forge
+flask-cors                3.0.6                      py_0    conda-forge
+flask-httpauth            3.2.4                      py_0    conda-forge
+flask-jwt-extended        3.12.1                     py_0    conda-forge
+flask-login               0.4.1                      py_0    conda-forge
+flask-mail                0.9.1                      py_2    conda-forge
+flask-marshmallow         0.9.0                      py_0    conda-forge
+flask-migrate             2.2.1                    py27_0    conda-forge
+flask-oauthlib            0.9.5                      py_0    conda-forge
+flask-principal           0.4.0                      py_1    conda-forge
+flask-restless            1.0.0b1                    py_1    conda-forge
+flask-restplus            0.11.0                   py27_0    conda-forge
+flask-script              2.0.6                      py_0    conda-forge
+flask-security            3.0.0                      py_0    conda-forge
+flask-socketio            3.0.1                      py_0    conda-forge
+flask-sqlalchemy          2.3.2                      py_0    conda-forge
+flask-uploads             0.2.1                    py27_0    conda-forge
+flask-user                1.0.1.4                    py_0    conda-forge
+flask-wtf                 0.14.2                     py_1    conda-forge
+folium                    0.6.0                      py_0    conda-forge
+freetype                  2.9.1                hf819b56_1    conda-forge
+freexl                    1.0.5                     vc9_0  [vc9]  conda-forge
+funcsigs                  1.0.2                      py_2    conda-forge
+functools32               3.2.3.2                  py27_2    conda-forge
+furl                      1.0.1                    py27_0    conda-forge
+future                    0.16.0                   py27_2    conda-forge
+futures                   3.2.0                    py27_0    conda-forge
+gdal                      2.2.4                py27_vc9_0  [vc9]  conda-forge
+geographiclib             1.49                       py_0    conda-forge
+geojson                   2.3.0                      py_0    conda-forge
+geojsonio                 0.0.3                      py_0    conda-forge
+geopandas                 0.4.0                      py_1    conda-forge
+geopy                     1.16.0                     py_0    conda-forge
+geos                      3.6.2                h2880e7c_2    conda-forge
+geotiff                   1.4.2                     vc9_1  [vc9]  conda-forge
+geoviews                  1.5.3                      py_0    pyviz
+geoviews-core             1.5.3                      py_0    pyviz
+gevent                    1.3a1                    py27_0    conda-forge
+gevent-socketio           0.2.1                     <pip>
+gevent-websocket          0.10.1                    <pip>
+ggplot                    0.11.2                   py27_0    conda-forge
+github3.py                1.2.0                      py_0    conda-forge
+graphviz                  2.38.0               hc56fc5f_9    conda-forge
+greenlet                  0.4.13                   py27_0    conda-forge
+h5netcdf                  0.6.2                      py_0    conda-forge
+h5py                      2.8.0            py27h43b2c39_1    conda-forge
+hdf4                      4.2.13                    vc9_0  [vc9]  conda-forge
+hdf5                      1.10.2                    vc9_0  [vc9]  conda-forge
+heapdict                  1.0.0                    py27_0    conda-forge
+holoviews                 1.10.7                     py_0    pyviz
+html5lib                  1.0.1                      py_0    conda-forge
+hvplot                    0.2.1                      py_0    pyviz
+hyperlink                 17.3.1                     py_0    conda-forge
+icc_rt                    2017.0.4             h97af966_0    defaults
+icu                       58.2                      vc9_0  [vc9]  conda-forge
+idna                      2.7                      py27_2    conda-forge
+imageio                   2.3.0                      py_1    conda-forge
+incremental               17.5.0                     py_0    conda-forge
+infinity                  1.4                        py_0    conda-forge
+intel-openmp              2018.0.3                      0    defaults
+intervals                 0.8.1                      py_0    conda-forge
+invoke                    1.1.1                    py27_0    conda-forge
+ipaddr                    2.2.0                      py_0    conda-forge
+ipaddress                 1.0.22                     py_1    conda-forge
+ipykernel                 4.8.2                    py27_0    conda-forge
+ipyleaflet                0.9.0                    py27_1    conda-forge
+ipyparallel               6.2.2                    py27_0    conda-forge
+ipython                   5.8.0                    py27_0    conda-forge
+ipython_genutils          0.2.0                      py_1    conda-forge
+ipywidgets                7.4.0                      py_0    conda-forge
+isort                     4.3.4                    py27_0    conda-forge
+itsdangerous              0.24                       py_2    conda-forge
+itypes                    1.1.0                     <pip>
+jinja2                    2.10                       py_1    conda-forge
+jmespath                  0.9.3                      py_1    conda-forge
+joblib                    0.12.2                     py_0    conda-forge
+jpeg                      9c                   h0c8e037_0    conda-forge
+jsonschema                2.6.0                    py27_1    conda-forge
+jupyter                   1.0.0                      py_1    conda-forge
+jupyter-echarts-pypkg     0.1.2                     <pip>
+jupyter_client            5.2.3                      py_1    conda-forge
+jupyter_console           5.2.0                    py27_0    conda-forge
+jupyter_contrib_core      0.3.3                      py_2    conda-forge
+jupyter_contrib_nbextensions 0.5.0                    py27_0    conda-forge
+jupyter_core              4.4.0                      py_0    conda-forge
+jupyter_highlight_selected_word 0.2.0                    py27_0    conda-forge
+jupyter_latex_envs        1.4.4                    py27_0    conda-forge
+jupyter_nbextensions_configurator 0.4.0                    py27_0    conda-forge
+jupyterlab                0.33.12                  py27_0    conda-forge
+jupyterlab_launcher       0.11.2                     py_0    conda-forge
+jwcrypto                  0.5.0                      py_0    conda-forge
+kealib                    1.4.9                hb550ff1_2    conda-forge
+keras                     2.2.2                    py27_0    conda-forge
+keras-applications        1.0.4                      py_1    conda-forge
+keras-preprocessing       1.0.2                      py_1    conda-forge
+kiwisolver                1.0.1            py27hdc96acc_2    conda-forge
+kombu                     4.2.1                      py_0    conda-forge
+krb5                      1.14.6                    vc9_0  [vc9]  conda-forge
+lazy-object-proxy         1.3.1            py27h0c8e037_0    conda-forge
+libcurl                   7.61.0               h7a46e7a_0    defaults
+libgdal                   2.2.4                hccecf25_6    conda-forge
+libgpuarray               0.7.6                     vc9_0  [vc9]  conda-forge
+libiconv                  1.15                 h0c8e037_2    conda-forge
+libnetcdf                 4.4.1.1             h55e88dd_11    conda-forge
+libpng                    1.6.34                    vc9_0  [vc9]  conda-forge
+libpq                     9.6.3                     vc9_0  [vc9]  conda-forge
+libpython                 2.1                      py27_0    defaults
+libsodium                 1.0.16                    vc9_0  [vc9]  conda-forge
+libspatialindex           1.8.5                     vc9_1  [vc9]  conda-forge
+libspatialite             4.3.0a              hbf2645c_18    defaults
+libssh2                   1.8.0                h0990ea7_2    conda-forge
+libtiff                   4.0.9                     vc9_0  [vc9]  conda-forge
+libxml2                   2.9.5                     vc9_2  [vc9]  conda-forge
+libxslt                   1.1.32                    vc9_0  [vc9]  conda-forge
+linecache2                1.0.0                    py27_0    conda-forge
+llvmlite                  0.24.0           py27hc56fc5f_0    defaults
+lml                       0.0.2                     <pip>
+locket                    0.2.0                      py_2    conda-forge
+lxml                      4.2.2            py27h803002f_0    conda-forge
+m2w64-binutils            2.25.1                        5    msys2
+m2w64-bzip2               1.0.6                         6    msys2
+m2w64-crt-git             5.0.0.4636.2595836               2    msys2
+m2w64-gcc                 5.3.0                         6    msys2
+m2w64-gcc-ada             5.3.0                         6    msys2
+m2w64-gcc-fortran         5.3.0                         6    msys2
+m2w64-gcc-libgfortran     5.3.0                         6    msys2
+m2w64-gcc-libs            5.3.0                         7    msys2
+m2w64-gcc-libs-core       5.3.0                         7    msys2
+m2w64-gcc-objc            5.3.0                         6    msys2
+m2w64-gmp                 6.1.0                         2    msys2
+m2w64-headers-git         5.0.0.4636.c0ad18a               2    msys2
+m2w64-isl                 0.16.1                        2    msys2
+m2w64-libiconv            1.14                          6    msys2
+m2w64-libmangle-git       5.0.0.4509.2e5a9a2               2    msys2
+m2w64-libwinpthread-git   5.0.0.4634.697f757               2    msys2
+m2w64-make                4.1.2351.a80a8b8               2    msys2
+m2w64-mpc                 1.0.3                         3    msys2
+m2w64-mpfr                3.1.4                         4    msys2
+m2w64-pkg-config          0.29.1                        2    msys2
+m2w64-toolchain           5.3.0                         7    msys2
+m2w64-tools-git           5.0.0.4592.90b8472               2    msys2
+m2w64-windows-default-manifest 6.4                           3    msys2
+m2w64-winpthreads-git     5.0.0.4634.697f757               2    msys2
+m2w64-zlib                1.2.8                        10    msys2
+mako                      1.0.7                      py_1    conda-forge
+markupsafe                1.0                      py27_0    conda-forge
+marshmallow               3.0.0b8                    py_0    conda-forge
+marshmallow-sqlalchemy    0.14.1                     py_0    conda-forge
+matplotlib                2.2.3            py27h7423b85_0    conda-forge
+mayavi                    4.5.0                    py27_0    menpo
+mccabe                    0.6.1                      py_1    conda-forge
+mercantile                1.0.4                      py_0    conda-forge
+mimerender                0.6.0                      py_1    conda-forge
+mistune                   0.8.3            py27h0c8e037_2    conda-forge
+mkl                       2018.0.3                      1    defaults
+mkl-service               1.1.2            py27h3f2f999_4    defaults
+mkl_fft                   1.0.6                    py27_0    conda-forge
+more-itertools            4.3.0                    py27_0    conda-forge
+mpmath                    1.0.0                      py_0    conda-forge
+msgpack-python            0.5.6            py27hdc96acc_2    conda-forge
+msys2-conda-epoch         20160418                      1    msys2
+multipledispatch          0.6.0                      py_0    conda-forge
+munch                     2.3.2                      py_0    conda-forge
+nbconvert                 5.3.1                      py_1    conda-forge
+nbformat                  4.4.0                      py_1    conda-forge
+ndg-httpsclient           0.5.1                      py_1    conda-forge
+netcdf4                   1.4.0            py27h43b2c39_1    conda-forge
+networkx                  2.1                        py_1    conda-forge
+nodejs                    8.10.0                        0    conda-forge
+notebook                  5.6.0                    py27_0    conda-forge
+numba                     0.39.0           py27h39f3610_0    defaults
+numexpr                   2.6.6                    py27_0    conda-forge
+numpy                     1.15.0           py27h911edcf_0    defaults
+numpy-base                1.15.0           py27hfef472a_0    defaults
+oauthlib                  2.1.0                      py_0    conda-forge
+olefile                   0.45.1                     py_1    conda-forge
+openapi-codec             1.3.2                     <pip>
+openjpeg                  2.3.0                     vc9_2  [vc9]  conda-forge
+openssl                   1.0.2o                    vc9_0  [vc9]  conda-forge
+orderedmultidict          0.7.11                   py27_0    conda-forge
+osmnx                     0.8.1                      py_0    conda-forge
+owslib                    0.16.0                     py_0    conda-forge
+packaging                 17.1                       py_0    conda-forge
+pandas                    0.23.4           py27h39f3610_0    conda-forge
+pandas-datareader         0.6.0                    py27_0    conda-forge
+pandoc                    2.2.2                hde52d81_1    conda-forge
+pandocfilters             1.4.2                      py_1    conda-forge
+param                     1.7.0                      py_0    pyviz
+parse                     1.8.4                      py_1    conda-forge
+partd                     0.3.8                      py_1    conda-forge
+passlib                   1.7.1                      py_0    conda-forge
+pathlib2                  2.3.2                    py27_0    conda-forge
+patsy                     0.5.0                      py_1    conda-forge
+pep8                      1.7.1                      py_0    conda-forge
+phonenumbers              8.9.7                      py_0    conda-forge
+pickleshare               0.7.4                    py27_0    conda-forge
+pillow                    5.2.0            py27h6202ca7_1    conda-forge
+pip                       10.0.1                   py27_0    defaults
+plotly                    3.1.1                      py_0    conda-forge
+pluggy                    0.7.1                      py_0    conda-forge
+proj4                     4.9.3                     vc9_5  [vc9]  conda-forge
+prometheus_client         0.3.0                      py_0    conda-forge
+prompt_toolkit            1.0.15                   py27_0    conda-forge
+psutil                    5.4.7            py27h0c8e037_1    conda-forge
+psycopg2                  2.7.5            py27hc64555f_1    conda-forge
+py                        1.5.4                      py_0    conda-forge
+pyasn1                    0.4.4                      py_0    conda-forge
+pycodestyle               2.3.1                    py27_0    conda-forge
+pycparser                 2.18                       py_1    conda-forge
+pyct                      0.4.5                      py_0    pyviz
+pyct-core                 0.4.5                      py_0    pyviz
+pycurl                    7.43.0.2         py27hc64555f_0    defaults
+pydocstyle                2.1.1                    py27_0    conda-forge
+pydot                     1.2.4                    py27_1    conda-forge
+pyecharts                 0.5.8                     <pip>
+pyecharts-javascripthon   0.0.6                     <pip>
+pyecharts-jupyter-installer 0.0.3                     <pip>
+pyephem                   3.7.6.0                  py27_0    conda-forge
+pyepsg                    0.3.2                      py_1    conda-forge
+pyface                    6.0.0                      py_1    conda-forge
+pyflakes                  1.6.0                    py27_0    conda-forge
+pygments                  2.2.0                      py_1    conda-forge
+pygpu                     0.7.6            py27hc997a72_0    conda-forge
+pyjwt                     1.6.4                      py_0    conda-forge
+pykml                     0.1.3                    py27_0    conda-forge
+pylint                    1.9.2                    py27_0    conda-forge
+pymongo                   3.7.1            py27hc56fc5f_0    conda-forge
+pyopenssl                 18.0.0                   py27_0    conda-forge
+pyparsing                 2.2.0                      py_1    conda-forge
+pypiwin32                 219                       <pip>
+pyproj                    1.9.5.1                  py27_0    conda-forge
+pyqt                      5.6.0            py27h4cbc711_6    conda-forge
+pyreadline                2.1                      py27_0    conda-forge
+pysal                     1.14.4.post2             py27_0    conda-forge
+pyshp                     1.2.12                     py_0    conda-forge
+pysocks                   1.6.8                    py27_1    conda-forge
+pytables                  3.4.4            py27h84e5c68_1    conda-forge
+pytest                    3.7.2                    py27_0    conda-forge
+pytest-django             3.4.2                     <pip>
+python                    2.7.15               h2880e7c_0    conda-forge
+python-dateutil           2.7.3                      py_0    conda-forge
+python-editor             1.0.3                      py_0    conda-forge
+python-engineio           2.2.0                      py_0    conda-forge
+python-mimeparse          1.6.0                      py_1    conda-forge
+python-snappy             0.5.3            py27hcfec385_0    conda-forge
+python-socketio           1.9.0                      py_0    conda-forge
+pytz                      2018.5                     py_0    conda-forge
+pyviz_comms               0.5.0                      py_1    pyviz
+pywavelets                0.5.2            py27hc997a72_2    conda-forge
+pywin32                   221                      py27_0    conda-forge
+pywinpty                  0.5.4                    py27_1    conda-forge
+pyyaml                    3.12                     py27_1    conda-forge
+pyzmq                     17.1.2           py27h8dd8dc4_0    conda-forge
+qt                        5.6.2                     vc9_1  [vc9]  conda-forge
+qtconsole                 4.4.1            py27h8a2030e_0    conda-forge
+rasterio                  1.0.3            py27hd53170f_0    conda-forge
+rcssmin                   1.0.6                     <pip>
+redis                     2.10.6                    <pip>
+requests                  2.19.1                   py27_1    conda-forge
+requests-file             1.4.3                    py27_0    defaults
+requests-ftp              0.3.1                    py27_0    conda-forge
+requests-oauthlib         1.0.0                      py_1    conda-forge
+rest-pandas               1.0.0                     <pip>
+retrying                  1.3.3                      py_2    conda-forge
+rjsmin                    1.0.12                    <pip>
+rtree                     0.8.3                    py27_0    conda-forge
+s3transfer                0.1.13                   py27_0    conda-forge
+scandir                   1.9.0            py27h0c8e037_0    conda-forge
+scikit-image              0.14.0           py27hc56fc5f_1    conda-forge
+scikit-learn              0.19.1           py27hbe35404_0    defaults
+scipy                     1.1.0            py27ha6b90e7_0    defaults
+seaborn                   0.9.0                      py_0    conda-forge
+send2trash                1.5.0                      py_0    conda-forge
+setuptools                40.0.0                   py27_0    defaults
+shapely                   1.6.4            py27hc31c106_1    conda-forge
+simplegeneric             0.8.1                      py_1    conda-forge
+simplejson                3.16.0           py27h0c8e037_1    conda-forge
+simplekml                 1.3.0                      py_1    conda-forge
+singledispatch            3.4.0.3                  py27_0    conda-forge
+sip                       4.18                     py27_1    conda-forge
+six                       1.11.0                   py27_1    conda-forge
+snakeviz                  0.4.2                    py27_0    defaults
+snappy                    1.1.7                     vc9_1  [vc9]  conda-forge
+snowballstemmer           1.2.1                      py_1    conda-forge
+snuggs                    1.4.1                      py_1    conda-forge
+sortedcontainers          2.0.4                      py_1    conda-forge
+speaklater                1.3                        py_3    conda-forge
+sphinx-me                 0.3                       <pip>
+sqlalchemy                1.2.11           py27h0c8e037_0    conda-forge
+sqlalchemy-utils          0.33.3                   py27_0    conda-forge
+sqlite                    3.24.0               h8608053_0    conda-forge
+sqlparse                  0.2.4                     <pip>
+statsmodels               0.9.0                    py27_0    conda-forge
+subprocess32              3.5.2                    py27_0    conda-forge
+sympy                     1.2                      py27_0    conda-forge
+tblib                     1.3.2                      py_1    conda-forge
+terminado                 0.8.1                    py27_0    conda-forge
+testpath                  0.3.1                    py27_0    conda-forge
+theano                    1.0.2                    py27_0    conda-forge
+thrift                    0.11.0           py27hc56fc5f_1    conda-forge
+tk                        8.6.8                     vc9_0  [vc9]  conda-forge
+toolz                     0.9.0                      py_0    conda-forge
+tornado                   5.1              py27h0c8e037_1    conda-forge
+traceback2                1.4.0                    py27_0    conda-forge
+traitlets                 4.3.2                    py27_0    conda-forge
+traits                    4.6.0            py27h0c8e037_2    conda-forge
+traitsui                  6.0.0                      py_1    conda-forge
+traittypes                0.2.1                      py_1    conda-forge
+twisted                   17.5.0                   py27_0    defaults
+typing                    3.6.4                    py27_2    conda-forge
+unittest2                 1.1.0                      py_0    conda-forge
+uritemplate.py            3.0.2                      py_1    conda-forge
+urllib3                   1.23                     py27_1    conda-forge
+utm                       0.4.2                    py27_0    conda-forge
+vc                        9                    h7299396_1    defaults
+vincent                   0.4.4                      py_1    conda-forge
+vine                      1.1.4                      py_1    conda-forge
+vs2008_runtime            9.00.30729.1         hfaea7d5_1    defaults
+vs2015_runtime            14.0.25420                    0    conda-forge
+vtk                       7.0.0                    py27_0    menpo
+wcwidth                   0.1.7                      py_1    conda-forge
+webargs                   4.0.0                      py_0    conda-forge
+webencodings              0.5.1                    py27_0    conda-forge
+websocket-client          0.51.0                    <pip>
+werkzeug                  0.14.1                     py_0    conda-forge
+wheel                     0.31.1                   py27_0    defaults
+widgetsnbextension        3.4.0                    py27_0    conda-forge
+win_inet_pton             1.0.1                    py27_1    conda-forge
+win_unicode_console       0.5                      py27_0    conda-forge
+wincertstore              0.2              py27hf04cefb_0    defaults
+winpty                    0.4.3                         4    conda-forge
+wrapt                     1.10.11                  py27_0    conda-forge
+wsgiref                   0.1.2                    py27_0    conda-forge
+wtforms                   2.1                      py27_0    conda-forge
+xarray                    0.10.8                   py27_0    conda-forge
+xerces-c                  3.2.0                     vc9_0  [vc9]  conda-forge
+xlrd                      1.1.0                      py_2    conda-forge
+xlsxwriter                1.0.7                      py_0    conda-forge
+xlwings                   0.11.8                   py27_0    conda-forge
+xlwt                      1.3.0                      py_1    conda-forge
+xz                        5.2.4                h3cc03e0_1    conda-forge
+yaml                      0.1.7                     vc9_0  [vc9]  conda-forge
+zeromq                    4.2.5                     vc9_2  [vc9]  conda-forge
+zict                      0.1.3                      py_0    conda-forge
+zlib                      1.2.11                    vc9_0  [vc9]  conda-forge
+zope.interface            4.5.0            py27h0c8e037_0    conda-forge

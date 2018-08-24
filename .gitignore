@@ -1,0 +1,11 @@
+*.ipynb
+
+*.exe
+*.7z
+*.zip
+*.whl
+
+bin/
+configuration/code/
+configuration/code_extensions/
+configuration/jupyter/

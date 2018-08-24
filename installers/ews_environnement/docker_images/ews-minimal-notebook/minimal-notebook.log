@@ -1,0 +1,26 @@
+Sending build context to Docker daemon  19.46kB
+Step 1/31 : FROM ubuntu:bionic-20180526@sha256:c8c275751219dadad8fa56b3ac41ca6cb22219ff117ca98fe82b42f24e1ba64e
+ ---> 452a96d81c30
+Step 2/31 : LABEL maintainer="Fabien Farella <f.farella@ews-consulting.com>"
+ ---> Running in f35405fdd819
+Removing intermediate container f35405fdd819
+ ---> cfe0173946ac
+Step 3/31 : USER root
+ ---> Running in 89eb72f8c855
+Removing intermediate container 89eb72f8c855
+ ---> 2a885008507f
+Step 4/31 : ENV DEBIAN_FRONTEND noninteractive
+ ---> Running in b25cd62e8508
+Removing intermediate container b25cd62e8508
+ ---> 1435642f64e3
+Step 5/31 : RUN apt-get update && apt-get -yq dist-upgrade     && apt-get install -yq --no-install-recommends     wget     bzip2     ca-certificates     sudo     locales     fonts-liberation     && apt-get clean     && rm -rf /var/lib/apt/lists/*
+ ---> Running in 1f88508c8da6
+Get:1 http://security.ubuntu.com/ubuntu bionic-security InRelease [83.2 kB]
+Get:2 http://archive.ubuntu.com/ubuntu bionic InRelease [242 kB]
+Get:3 http://archive.ubuntu.com/ubuntu bionic-updates InRelease [88.7 kB]
+Get:4 http://archive.ubuntu.com/ubuntu bionic-backports InRelease [74.6 kB]
+Get:5 http://security.ubuntu.com/ubuntu bionic-security/universe Sources [15.5 kB]
+Get:6 http://security.ubuntu.com/ubuntu bionic-security/main amd64 Packages [193 kB]
+Get:7 http://security.ubuntu.com/ubuntu bionic-security/universe amd64 Packages [62.6 kB]
+Get:8 http://security.ubuntu.com/ubuntu bionic-security/multiverse amd64 Packages [1363 B]
+Get:9 http://archive.ubuntu.com/ubuntu bionic/universe Sources [11.5 MB]
