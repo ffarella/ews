@@ -3,7 +3,7 @@ EWS local python installation
 
 
 1. Open **VSCode** and open a terminal.
-2. Go in the scri0p
+2. Go in the scripts
 2. Type:
     ```
     DEL /f %USERPROFILE%\.condarc
@@ -21,7 +21,7 @@ EWS local python installation
     conda config --system --prepend channels msys2
     conda config --system --set auto_update_conda false
     conda config --system --set show_channel_urls true    
-    conda install --yes --file %EWS_INST_DIR%/ews_environnement/local_deployement/requirements_ewsbase_py27.txt
+    conda install --yes --file %EWS_INST_DIR%/ews_environnement/local_deployement/env_ewsbase_py27.txt
     pip --no-cache-dir install -r %EWS_INST_DIR%/ews_environnement/local_deployement/requirements_pip_py27.txt    
     jupyter --config-dir
     jupyter notebook --config="%JUPYTER_CONFIG_DIR%\jupyter_notebook_config.py" --generate-config
@@ -56,7 +56,7 @@ EWS local python installation
 
 
     activate ewsbase_py36   
-    conda install --yes --file %EWS_INST_DIR%/ews_environnement/local_deployement/requirements_ewsbase_py36.txt
+    conda install --yes --file %EWS_INST_DIR%/ews_environnement/local_deployement/env_ewsbase_py36.txt
     pip --no-cache-dir install -r %EWS_INST_DIR%/ews_environnement/local_deployement/requirements_pip_py36.txt
     jupyter lab path
     jupyter labextension install @jupyter-widgets/jupyterlab-manager --no-build
@@ -80,11 +80,13 @@ EWS local python installation
 
 4. Check the installation using:
     ```
-    cd %EWS_INST_DIR%/ews_environnement/local_deployement/  
+     
     node --version && npm --version
     gdalinfo --version
     rio --version
     gdalinfo --formats
     ogrinfo --formats
+    cd %EWS_INST_DIR%/ews_environnement/local_deployement/ 
     python -c "import test_installation; test_installation.test()"
+    
     ```
