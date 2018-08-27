@@ -69,7 +69,8 @@ ADD fix-permissions /usr/local/bin/fix-permissions
 
 # Create ewsuser user with UID=1000 and in the 'users' group
 # and make sure these dirs are writable by the `users` group.
-RUN groupadd wheel -g 11 && \
+RUN chmod a+x fix-permissions && \
+    groupadd wheel -g 11 && \
     echo "auth required pam_wheel.so use_uid" >> /etc/pam.d/su && \
     useradd -m -s /bin/bash -N -u $NB_UID $NB_USER && \
     mkdir -p $CONDA_DIR && \
